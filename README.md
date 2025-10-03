@@ -1,4 +1,4 @@
-Here is a suggested content structure for your project's **README.md** file. You can copy and paste this text into your notepad and then modify the details (like model metrics and file paths) as you set up your GitHub repository.
+
 
 -----
 
